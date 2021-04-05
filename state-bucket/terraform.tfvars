@@ -1,0 +1,1 @@
+bucket_name="mart-kebab-terraform-state"
